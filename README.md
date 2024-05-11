@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yashvardhan Singh
+- 👋 Hi, Myself Yashvardhan Singh
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Coding and Artificial Intelligence
+- 🌱 I’m currently learning Coding, Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me :
 -   E-mail : yashvardhan.s493@gmail.com
